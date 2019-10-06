@@ -1,0 +1,10 @@
+C:\Michael Haechler\VEGA\Module Assignments and Saves\PROGRAMMING\Sem 2\Task 1 POE 18000498\Task 1 POE 18000498\obj\Debug\Task 1 POE 18000498.csprojAssemblyReference.cache
+C:\Michael Haechler\VEGA\Module Assignments and Saves\PROGRAMMING\Sem 2\Task 1 POE 18000498\Task 1 POE 18000498\obj\Debug\Task_1_POE_18000498.Form1.resources
+C:\Michael Haechler\VEGA\Module Assignments and Saves\PROGRAMMING\Sem 2\Task 1 POE 18000498\Task 1 POE 18000498\obj\Debug\Task_1_POE_18000498.Properties.Resources.resources
+C:\Michael Haechler\VEGA\Module Assignments and Saves\PROGRAMMING\Sem 2\Task 1 POE 18000498\Task 1 POE 18000498\obj\Debug\Task 1 POE 18000498.csproj.GenerateResource.cache
+C:\Michael Haechler\VEGA\Module Assignments and Saves\PROGRAMMING\Sem 2\Task 1 POE 18000498\Task 1 POE 18000498\obj\Debug\Task 1 POE 18000498.csproj.CoreCompileInputs.cache
+C:\Michael Haechler\VEGA\Module Assignments and Saves\PROGRAMMING\Sem 2\Task 1 POE 18000498\Task 1 POE 18000498\bin\Debug\Task 1 POE 18000498.exe.config
+C:\Michael Haechler\VEGA\Module Assignments and Saves\PROGRAMMING\Sem 2\Task 1 POE 18000498\Task 1 POE 18000498\bin\Debug\Task 1 POE 18000498.exe
+C:\Michael Haechler\VEGA\Module Assignments and Saves\PROGRAMMING\Sem 2\Task 1 POE 18000498\Task 1 POE 18000498\bin\Debug\Task 1 POE 18000498.pdb
+C:\Michael Haechler\VEGA\Module Assignments and Saves\PROGRAMMING\Sem 2\Task 1 POE 18000498\Task 1 POE 18000498\obj\Debug\Task 1 POE 18000498.exe
+C:\Michael Haechler\VEGA\Module Assignments and Saves\PROGRAMMING\Sem 2\Task 1 POE 18000498\Task 1 POE 18000498\obj\Debug\Task 1 POE 18000498.pdb
