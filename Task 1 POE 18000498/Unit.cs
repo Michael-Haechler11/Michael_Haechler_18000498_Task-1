@@ -13,7 +13,7 @@ namespace Task_1_POE_18000498
         Talon
     }
 
-    abstract class Unit
+    abstract class Unit //added the int for poistion, health, speed,etc
     {
         public int posX, posY;
         public int health;
@@ -24,7 +24,7 @@ namespace Task_1_POE_18000498
         public Faction factionType;
         public bool isAttacking;
 
-        public Unit(int x, int y, int hp, int sp, int att, int attRange, string sym, Faction faction, bool isAtt)
+        public Unit(int x, int y, int hp, int sp, int att, int attRange, string sym, Faction faction, bool isAtt) //gives the value to position, health, speed, attack, etc
         {
 
             posX = x;

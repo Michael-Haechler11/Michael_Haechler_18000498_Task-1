@@ -95,7 +95,7 @@ namespace Task_1_POE_18000498
             }
         }
 
-        public override void Combat()
+        public override void Combat() // combat method for units to fight
         {       
             foreach (Unit u in units)
             {
@@ -108,7 +108,7 @@ namespace Task_1_POE_18000498
             }
         }
 
-        public override void CheckAttackRange(List<Unit> uni, Unit[,] unitMap)
+        public override void CheckAttackRange(List<Unit> uni, Unit[,] unitMap) // checks the attack range of the units 
         {
             units = uni;
 
@@ -162,7 +162,7 @@ namespace Task_1_POE_18000498
             
         }
 
-        public override void Death()
+        public override void Death() // method for the death of units once they have less than or = 0 health
         {
 
         }
